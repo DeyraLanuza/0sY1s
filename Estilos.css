@@ -84,3 +84,15 @@
     margin: 16px 0;
     font-size: 16px;
 }
+.Aprende {
+    width: 400px;
+    background: #24303c url(Imagenes/FONDO\ 2.png) no-repeat;
+    background-size: 400px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 4px;
+    font-family: 'franklin gothic heavy';
+    color: white;
+    text-align: center;
+}
